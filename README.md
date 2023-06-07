@@ -2,8 +2,8 @@
 
 ## Files of interest
 
-Backend/LoggingCallFilter.cs
-Backend/MessageGrain.cs
+- Backend/LoggingCallFilter.cs
+- Backend/MessageGrain.cs
 
 ## Steps to reproduce
 
