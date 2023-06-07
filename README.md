@@ -1,5 +1,10 @@
 # TransactionalFilter
 
+## Files of interest
+
+Backend/LoggingCallFilter.cs
+Backend/MessageGrain.cs
+
 ## Steps to reproduce
 
 - Step 1: Clone project
