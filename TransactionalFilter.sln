@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.6.33712.159
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackr", "Trackr\Trackr.csproj", "{3604EDFA-B97E-441D-B262-118F44051081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionalFilter", "TransactionalFilter\TransactionalFilter.csproj", "{2444E8BE-C478-41A1-8613-3D4C097CE884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3604EDFA-B97E-441D-B262-118F44051081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3604EDFA-B97E-441D-B262-118F44051081}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3604EDFA-B97E-441D-B262-118F44051081}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3604EDFA-B97E-441D-B262-118F44051081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2444E8BE-C478-41A1-8613-3D4C097CE884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2444E8BE-C478-41A1-8613-3D4C097CE884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2444E8BE-C478-41A1-8613-3D4C097CE884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2444E8BE-C478-41A1-8613-3D4C097CE884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A9F057D1-4020-44B2-B33F-54CCA8FAA5BA}
+		SolutionGuid = {291BCBA0-B1EF-47F7-834B-66AD9F9ED611}
 	EndGlobalSection
 EndGlobal
