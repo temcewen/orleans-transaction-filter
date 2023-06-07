@@ -24,7 +24,7 @@ mutation SEND_MESSAGE {
 }
 ```
 
-- Step 8: Hit "Run" button in the center.
+- Step 8: Hit "Run" button in the top-center.
 - Step 9: View issue.
 
 The expected behavior would be that the LoggingFilter would catch the exception after calling invoke on the grain; however, it doesn't.
